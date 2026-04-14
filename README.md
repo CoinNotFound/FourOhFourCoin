@@ -9,6 +9,8 @@ Copyright (c) 2014 FourOhFourCoin Developers
 What is FourOhFourCoin?
 ------------------
 
+We are so back Hg95YDfJQyFzQpkZ8hJJ5zF3NhrS9o2z9oXVszZJpump
+
 FourOhFourCoin is a version of Bitcoin using X11 as a proof-of-work algorithm.
  - Super secure hashing algorithm with 11 rounds of scientific hashing functions
  - Block reward is controlled by moore's law: (11111 / (((Difficulty+51)/6) ^ 2))
